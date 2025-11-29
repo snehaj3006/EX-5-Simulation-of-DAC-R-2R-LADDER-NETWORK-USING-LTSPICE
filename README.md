@@ -20,16 +20,17 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="973" height="448" alt="image" src="https://github.com/user-attachments/assets/6bf521f0-cc4f-4bad-b877-d636616c84a4" />
+<img width="302" height="186" alt="image" src="https://github.com/user-attachments/assets/645a521b-a125-4a7b-a3a5-62ec1b3d0110" />
 
 ---
 ## MODEL GRAPH
-<img width="488" height="427" alt="image" src="https://github.com/user-attachments/assets/9c8388ab-fc82-4d9a-86ea-1327b148596b" />
-<img width="1006" height="353" alt="image" src="https://github.com/user-attachments/assets/c920c726-d72d-4106-9048-0cd86b895f3d" />
+
+<img width="353" height="438" alt="image" src="https://github.com/user-attachments/assets/a1daa40d-8535-497e-89ef-6c695e7c7f08" />
 
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+<img width="352" height="490" alt="image" src="https://github.com/user-attachments/assets/27921060-fdcd-4245-bbf1-0afcea7345d8" />
 
 ---
 ##RESULT:
