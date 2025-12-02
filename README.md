@@ -32,6 +32,8 @@
 
 <img width="352" height="490" alt="image" src="https://github.com/user-attachments/assets/27921060-fdcd-4245-bbf1-0afcea7345d8" />
 
+![WhatsApp Image 2025-11-14 at 09 38 21_cb98ab92](https://github.com/user-attachments/assets/c2ccb005-4afc-4626-a79e-dee42d195b04)
+
 ---
 ##RESULT:
 Thus the LTspice tools has studied and simulated the performance of R-2R  circuits.
