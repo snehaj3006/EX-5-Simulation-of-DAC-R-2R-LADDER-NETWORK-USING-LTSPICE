@@ -27,6 +27,8 @@
 
 <img width="353" height="438" alt="image" src="https://github.com/user-attachments/assets/a1daa40d-8535-497e-89ef-6c695e7c7f08" />
 
+<img width="415" height="374" alt="image" src="https://github.com/user-attachments/assets/67e37af7-f3ce-4044-9db6-600f32305015" />
+
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
